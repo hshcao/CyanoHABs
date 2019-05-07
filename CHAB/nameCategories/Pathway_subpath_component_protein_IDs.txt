@@ -1,0 +1,318 @@
+Quinn's components	updated components	AAPEP|AA	AAPEP|AA		AAPEP	AAPEP	Amino acid and peptide transporters
+AAPEP|AA|aapJMPQ	AAPEP|AA|aapJMPQ	Akinete|Ana	Akinete|Ana		Akinete	Akinete	Akinete formation
+AAPEP|AA|aotJMPQ	AAPEP|AA|aotJMPQ	CO2CCM|Carbonicanhydrase	CCM|CA		CO2CCM	CCM	CO2 concentrating mechanism
+AAPEP|AA|arhPMQT	AAPEP|AA|arhPMQT	CO2CCM|Carboxysome	CCM|Carboxysome		DrugR	DrugR	Antibiotic resistance
+AAPEP|AA|artIJMPQ	AAPEP|AA|artIJMPQ	CO2CCM|CiT	CCM|CiT		Heavymetal	metalR	Heavy metal resistance
+AAPEP|AA|bgtAB	AAPEP|AA|bgtAB	CO2CCM|Rubisco	CCM|Rubisco		IonDrug	TEVit	Trace element and vitamin uptake
+AAPEP|AA|braCDEFG	AAPEP|AA|braCDEFG	DrugR|DR	DrugR|DR		MAA	MAA	Mycosporine-like amino acid biosynthesis
+AAPEP|AA|busAB	AAPEP|AA|busAB	Heavymetal|HM	metalR|HMR		Nfix	Nfix	Nitrogen fixation
+AAPEP|AA|bztABC	AAPEP|AA|bztABC	IonDrug|Biotin	TEVit|Biotin		Nitrogen	Nitrogen	Nitrogen utilization
+AAPEP|AA|dppABCDF	AAPEP|AA|dppABCDF	IonDrug|Cobalamin	TEVit|Cobalamin		Osmoprotect	Osmos	Osmotic homeostasis
+AAPEP|AA|gadA	AAPEP|AA|gadA	IonDrug|Copper	TEVit|Copper		Phosphorus	Phosphorus	Phosphorus utilization
+AAPEP|AA|glnHPQ	AAPEP|AA|glnHPQ	IonDrug|Folate	TEVit|Folate		Photosynthesis	PSB	Phycobilisome
+AAPEP|AA|gltIJKL	AAPEP|AA|gltIJKL	IonDrug|Iron	TEVit|Iron		PS-I	PS-I	Photosystem I
+AAPEP|AA|gltP	AAPEP|AA|gltP	IonDrug|Magnesium	TEVit|Magnesium		PS-II	PS-II	Photosystem II
+AAPEP|AA|gltS	AAPEP|AA|gltS	IonDrug|Manganese	TEVit|Manganese		Stress	oxStressR	Redox restress resistance
+AAPEP|AA|gluABCD	AAPEP|AA|gluABCD	IonDrug|Nickel	TEVit|Nickel		Sugar	Sugar	Uptake of simple carbohydrates
+AAPEP|AA|hisJ	AAPEP|AA|hisJ	IonDrug|Riboflavin	TEVit|Riboflavin		Sulfur	Sulfur	Sulfur utilization
+AAPEP|AA|hutVWX	AAPEP|AA|hutVWX	MAA|MAA	MAA|MAA		Toxins	Toxin	Cyanotoxin biosynthesis
+AAPEP|AA|livFGHJMK	AAPEP|AA|livFGHJMK	Nfix|N	Nfix|N		UnsatFA	UnsatFA	Biosynthesis of unsaturated fatty acids
+AAPEP|AA|livFGHKM	AAPEP|AA|livFGHKM	Nitrogen|ammonia	Nitrogen|ammonia		Vesicle	Vesicle	Gas vesicle biosynthesis
+AAPEP|AA|mopABCDF	AAPEP|AA|mopABCDF	Nitrogen|nitrate	Nitrogen|nitrate				
+AAPEP|AA|natABCDE	AAPEP|AA|natABCDE	Nitrogen|urea	Nitrogen|urea				
+AAPEP|AA|nocMPQT	AAPEP|AA|nocMPQT	Osmoprotect|ABC	Osmos|ABC				
+AAPEP|AA|occMPQT	AAPEP|AA|occMPQT	Osmoprotect|opuABC	Osmos|opuABC				
+AAPEP|AA|proVWX	AAPEP|AA|proVWX	Phosphorus|orgP	Phosphorus|orgP				
+AAPEP|AA|sapABCDF	AAPEP|AA|sapABCDF	Phosphorus|Pi	Phosphorus|Pi				
+AAPEP|AA|tppB	AAPEP|AA|tppB	Photosynthesis|PSB	PSB|PSB				
+AAPEP|AA|yefCSY	AAPEP|AA|yefCSY	PS-I|ATPase	PS-I|ATPase				
+AAPEP|AA|yejABEF	AAPEP|AA|yejABEF	PS-I|Cytb6/f	PS-I|Cytb6/f				
+Akinete|Ana|ahkABNK	Akinete|Ana|ahkABNK	PS-I|Etransport	PS-I|Etransport				
+CO2CCM|Carbonicanhydrase|icfA	CCM|CA|icfA	PS-II|13dDa	PS-II|13dDa				
+CO2CCM|Carboxysome|ccmKLMNO	CCM|Carboxysome|ccmKLMNO	PS-II|CP43	PS-II|CP43				
+CO2CCM|CiT|bicA	CCM|CiT|bicA	PS-II|CP47	PS-II|CP47				
+CO2CCM|CiT|cdnDFY	CCM|CiT|cdnDFY	PS-II|Cyt-b559	PS-II|Cyt-b559				
+CO2CCM|CiT|cmpABCD	CCM|CiT|cmpABCD	PS-II|Cyt-c550	PS-II|Cyt-c550				
+CO2CCM|CiT|cpnDFX	CCM|CiT|cpnDFX	PS-II|D1	PS-II|D1				
+CO2CCM|CiT|sbtA	CCM|CiT|sbtA	PS-II|D2	PS-II|D2				
+CO2CCM|Rubisco|rbcLS	CCM|Rubisco|rbcLS	PS-II|II	PS-II|psb	this line should be deleted			
+DrugR|DR|emrAB	DrugR|DR|emrAB	PS-II|Psb27	PS-II|Psb27				
+DrugR|DR|emrC	DrugR|DR|emrC	PS-II|psb28-2II	PS-II|psb28-2				
+DrugR|DR|lmrA	DrugR|DR|lmrA	PS-I|PS-Ipsa	PS-I|PS-Ipsa				
+DrugR|DR|mdfA	DrugR|DR|mdfA	Stress|redox	oxStressR|redox				
+DrugR|DR|norA	DrugR|DR|norA	Sugar|Chitobiose	Sugar|Chitobiose				
+DrugR|DR|omxAB	DrugR|DR|omxAB	Sugar|Glucoside	Sugar|Glucoside				
+DrugR|DR|omxCDJ	DrugR|DR|omxCDJ	Sugar|Lipopolysaccharide	Sugar|Lipopolysaccharide				
+DrugR|DR|omxEFN	DrugR|DR|omxEFN	Sugar|Malstose	Sugar|Malstose				
+DrugR|DR|omxMYX	DrugR|DR|omxMYX	Sugar|NAG	Sugar|NAG				
+DrugR|DR|qacA	DrugR|DR|qacA	Sulfur|S	Sulfur|S				
+DrugR|DR|tacABCD	DrugR|DR|tacABCD	Sulfur|S1	Sulfur|S				
+Heavymetal|HM|chrA	metalR|HMR|chrA	Sulfur|S2	Sulfur|S	metalR|HMR			
+Heavymetal|HM|cnrABC	metalR|HMR|cnrABC	Sulfur|S3	Sulfur|S				
+Heavymetal|HM|cueA	metalR|HMR|cueA	Sulfur|S4	Sulfur|S				
+Heavymetal|HM|cusABCF	metalR|HMR|cusABCF	Sulfur|S5	Sulfur|S				
+Heavymetal|HM|cutC	metalR|HMR|cutC	Toxins|Anatoxin-a	Toxin|Anatoxin-a				
+Heavymetal|HM|czcABC	metalR|HMR|czcABC	Toxins|Cylindrospermopsin	Toxin|Cylindrospermopsin				
+Heavymetal|HM|czcD	metalR|HMR|czcD	Toxins|Lyngbyatoxin	Toxin|Lyngbyatoxin				
+Heavymetal|HM|nccABC	metalR|HMR|nccABC	Toxins|Microcystin	Toxin|Microcystin				
+Heavymetal|HM|nreB	metalR|HMR|nreB	Toxins|Nodularin	Toxin|Nodularin				
+Heavymetal|HM|zitB	metalR|HMR|zitB	Toxins|Saxitoxin	Toxin|Saxitoxin				
+Heavymetal|HM|zntA	metalR|HMR|zntA	UnsatFA|MUFA	UnsatFA|MUFA				
+IonDrug|Biotin|bioMNY	TEVit|Biotin|bioMNY	UnsatFA|PUFA	UnsatFA|PUFA				
+IonDrug|Cobalamin|btuCDF	TEVit|Cobalamin|btuCDF	Vesicle|Gas	Vesicle|gvesicle				
+IonDrug|Copper|atxA	TEVit|Copper|atxA	Vesicle|Gene	Vesicle|gvesicle				
+IonDrug|Copper|copABC	TEVit|Copper|copABC	Vesicle|gvesicle	Vesicle|gvesicle				
+IonDrug|Copper|copB	TEVit|Copper|copB						
+IonDrug|Copper|ctaA	TEVit|Copper|ctaA						
+IonDrug|Copper|cueA	TEVit|Copper|cueA						
+IonDrug|Copper|pacS	TEVit|Copper|pacS						
+IonDrug|Folate|slrA	TEVit|Folate|slrA						
+IonDrug|Iron|fecBCDE	TEVit|Iron|fecBCDE						
+IonDrug|Iron|fecBDE	TEVit|Iron|fecBDE						
+IonDrug|Iron|feoAB	TEVit|Iron|feoAB						
+IonDrug|Iron|feoC	TEVit|Iron|feoC						
+IonDrug|Iron|fhuBCD	TEVit|Iron|fhuBCD						
+IonDrug|Iron|futABC	TEVit|Iron|futABC						
+IonDrug|Iron|sftABC	TEVit|Iron|sftABC						
+IonDrug|Iron|sfuA	TEVit|Iron|sfuA						
+IonDrug|Iron|sfuB	TEVit|Iron|sfuB						
+IonDrug|Iron|sfuC	TEVit|Iron|sfuC						
+IonDrug|Iron|sufBCD	TEVit|Iron|sufBCD						
+IonDrug|Magnesium|corA	TEVit|Magnesium|corA						
+IonDrug|Magnesium|corC	TEVit|Magnesium|corC						
+IonDrug|Magnesium|mgtABC	TEVit|Magnesium|mgtABC						
+IonDrug|Magnesium|mgtACE	TEVit|Magnesium|mgtACE						
+IonDrug|Manganese|manRS	TEVit|Manganese|manRS						
+IonDrug|Manganese|mntABC	TEVit|Manganese|mntABC						
+IonDrug|Nickel|nikABCDE	TEVit|Nickel|nikABCDE						
+IonDrug|Nickel|nikMNOQ	TEVit|Nickel|nikMNOQ						
+IonDrug|Riboflavin|pimA	TEVit|Riboflavin|pimA						
+IonDrug|Riboflavin|pnuC	TEVit|Riboflavin|pnuC						
+MAA|MAA|avaABCD	MAA|MAA|avaABCD						
+Nfix|N|ccbP	Nfix|N|ccbP						
+Nfix|N|devA	Nfix|N|devA						
+Nfix|N|devB	Nfix|N|devB						
+Nfix|N|devC	Nfix|N|devC						
+Nfix|N|fdxH	Nfix|N|fdxH						
+Nfix|N|finBSNU	Nfix|N|finBSNU						
+Nfix|N|fraG	Nfix|N|fraG						
+Nfix|N|graG	Nfix|N|graG						
+Nfix|N|hdcP	Nfix|N|hdcP						
+Nfix|N|hepK	Nfix|N|hepK						
+Nfix|N|hepN	Nfix|N|hepN						
+Nfix|N|hetC	Nfix|N|hetC						
+Nfix|N|hetF	Nfix|N|hetF						
+Nfix|N|hetP	Nfix|N|hetP						
+Nfix|N|hetR	Nfix|N|hetR						
+Nfix|N|hglB	Nfix|N|hglB						
+Nfix|N|hglC	Nfix|N|hglC						
+Nfix|N|hglD	Nfix|N|hglD						
+Nfix|N|hglE	Nfix|N|hglE						
+Nfix|N|nifE	Nfix|N|nifE						
+Nfix|N|nifHDK	Nfix|N|nifHDK						
+Nfix|N|nifJ	Nfix|N|nifJ						
+Nfix|N|nifN	Nfix|N|nifN						
+Nfix|N|nifO	Nfix|N|nifO						
+Nfix|N|nifVZT	Nfix|N|nifVZT						
+Nfix|N|nifW	Nfix|N|nifW						
+Nfix|N|nifX	Nfix|N|nifX						
+Nfix|N|ntcA	Nfix|N|ntcA						
+Nfix|N|ompA	Nfix|N|ompA						
+Nfix|N|ostA	Nfix|N|ostA						
+Nfix|N|patA	Nfix|N|patA						
+Nfix|N|patB	Nfix|N|patB						
+Nfix|N|patN	Nfix|N|patN						
+Nfix|N|patS	Nfix|N|patS						
+Nitrogen|ammonia|amtA	Nitrogen|ammonia|amtA						
+Nitrogen|ammonia|amtB	Nitrogen|ammonia|amtB						
+Nitrogen|ammonia|cnaA	Nitrogen|ammonia|cnaA						
+Nitrogen|ammonia|gdhA	Nitrogen|ammonia|gdhA						
+Nitrogen|ammonia|glnA	Nitrogen|ammonia|glnA						
+Nitrogen|ammonia|glnB	Nitrogen|ammonia|glnB						
+Nitrogen|ammonia|glnN	Nitrogen|ammonia|glnN						
+Nitrogen|ammonia|glsF	Nitrogen|ammonia|glsF						
+Nitrogen|ammonia|gltB	Nitrogen|ammonia|gltB						
+Nitrogen|ammonia|gltD	Nitrogen|ammonia|gltD						
+Nitrogen|ammonia|iffA	Nitrogen|ammonia|iffA						
+Nitrogen|ammonia|iffB	Nitrogen|ammonia|iffB						
+Nitrogen|ammonia|narM	Nitrogen|ammonia|narM						
+Nitrogen|ammonia|nirB	Nitrogen|ammonia|nirB						
+Nitrogen|ammonia|ntcB	Nitrogen|ammonia|ntcB						
+Nitrogen|ammonia|piiA	Nitrogen|ammonia|piiA						
+Nitrogen|ammonia|pipX	Nitrogen|ammonia|pipX						
+Nitrogen|nitrate|narB	Nitrogen|nitrate|narB						
+Nitrogen|nitrate|nirA	Nitrogen|nitrate|nirA						
+Nitrogen|nitrate|nrtABCD	Nitrogen|nitrate|nrtABCD						
+Nitrogen|nitrate|nrtP	Nitrogen|nitrate|nrtP						
+Nitrogen|urea|ureABCDEFG	Nitrogen|urea|ureABCDEF						
+Nitrogen|urea|urtABCDE	Nitrogen|urea|urtABCDE						
+Osmoprotect|ABC|opuABC	Osmos|ABC|opuABC						
+Osmoprotect|opuABC|opuABC	Osmos|opuABC|opuABC						
+Phosphorus|orgP|phnA	Phosphorus|orgP|phnA						
+Phosphorus|orgP|phnCDE	Phosphorus|orgP|phnCDE						
+Phosphorus|orgP|phnF	Phosphorus|orgP|phnF						
+Phosphorus|orgP|phnGHIJKLMN	Phosphorus|orgP|phnGHIJKLMN						
+Phosphorus|orgP|phnP	Phosphorus|orgP|phnP						
+Phosphorus|orgP|phnR	Phosphorus|orgP|phnR						
+Phosphorus|orgP|phnSTUV	Phosphorus|orgP|phnSTUV						
+Phosphorus|orgP|phnWX	Phosphorus|orgP|phnWX						
+Phosphorus|orgP|ugpABCE	Phosphorus|orgP|ugpABCE						
+Phosphorus|orgP|ugpQ	Phosphorus|orgP|ugpQ						
+Phosphorus|Pi|appA	Phosphorus|Pi|appA						
+Phosphorus|Pi|eppA	Phosphorus|Pi|eppA						
+Phosphorus|Pi|ippA	Phosphorus|Pi|ippA						
+Phosphorus|Pi|latA	Phosphorus|Pi|latA						
+Phosphorus|Pi|phoBRU	Phosphorus|Pi|phoBRU						
+Phosphorus|Pi|ppkA	Phosphorus|Pi|ppkA						
+Phosphorus|Pi|pstABCS	Phosphorus|Pi|pstABCS						
+Photosynthesis|PSB|apcAB	PSB|PSB|apcAB						
+Photosynthesis|PSB|apcC	PSB|PSB|apcC						
+Photosynthesis|PSB|apcD	PSB|PSB|apcD						
+Photosynthesis|PSB|apcE	PSB|PSB|apcE						
+Photosynthesis|PSB|apcF	PSB|PSB|apcF						
+Photosynthesis|PSB|cpcAB	PSB|PSB|cpcAB						
+Photosynthesis|PSB|cpcC	PSB|PSB|cpcC						
+Photosynthesis|PSB|cpcD	PSB|PSB|cpcD						
+Photosynthesis|PSB|cpcEF	PSB|PSB|cpcEF						
+Photosynthesis|PSB|cpcG	PSB|PSB|cpcG						
+Photosynthesis|PSB|cpeAB	PSB|PSB|cpeAB						
+Photosynthesis|PSB|cpeC	PSB|PSB|cpeC						
+Photosynthesis|PSB|cpeD	PSB|PSB|cpeD						
+Photosynthesis|PSB|cpeE	PSB|PSB|cpeE						
+Photosynthesis|PSB|cpeR	PSB|PSB|cpeR						
+Photosynthesis|PSB|cpeS	PSB|PSB|cpeS						
+PS-I|ATPase|atpA	PS-I|ATPase|atpA						
+PS-I|ATPase|atpB	PS-I|ATPase|atpB						
+PS-I|ATPase|atpC	PS-I|ATPase|atpC						
+PS-I|ATPase|atpD	PS-I|ATPase|atpD						
+PS-I|ATPase|atpE	PS-I|ATPase|atpE						
+PS-I|ATPase|atpG	PS-I|ATPase|atpG						
+PS-I|ATPase|atpH	PS-I|ATPase|atpH						
+PS-I|ATPase|atpI	PS-I|ATPase|atpI						
+PS-I|Cytb6/f|petA	PS-I|Cytb6/f|petA						
+PS-I|Cytb6/f|petB	PS-I|Cytb6/f|petB						
+PS-I|Cytb6/f|petC	PS-I|Cytb6/f|petC						
+PS-I|Cytb6/f|petD	PS-I|Cytb6/f|petD						
+PS-I|Cytb6/f|petG	PS-I|Cytb6/f|petG						
+PS-I|Cytb6/f|petL	PS-I|Cytb6/f|petL						
+PS-I|Cytb6/f|petM	PS-I|Cytb6/f|petM						
+PS-I|Cytb6/f|petN	PS-I|Cytb6/f|petN						
+PS-I|Etransport|petE	PS-I|Etransport|petE						
+PS-I|Etransport|petF	PS-I|Etransport|petF						
+PS-I|Etransport|petH	PS-I|Etransport|petH						
+PS-I|Etransport|petJ	PS-I|Etransport|petJ						
+PS-II|CP43|psbC	PS-II|CP43|psbC						
+PS-II|CP47|psbB	PS-II|CP47|psbB						
+PS-II|Cyt-b559|psbEF	PS-II|Cyt-b559|psbEF						
+PS-II|Cyt-c550|psbV	PS-II|Cyt-c550|psbV						
+PS-II|D1|psbA	PS-II|D1|psbA						
+PS-II|D2|psbD	PS-II|D2|psbD						
+PS-II|II|psbH	PS-II|psb|psbH						
+PS-II|II|psbI	PS-II|psb|psbI						
+PS-II|II|psbJ	PS-II|psb|psbJ						
+PS-II|II|psbK	PS-II|psb|psbK						
+PS-II|II|psbL	PS-II|psb|psbL						
+PS-II|II|psbM	PS-II|psb|psbM						
+PS-II|II|psbO	PS-II|psb|psbO						
+PS-II|II|psbP	PS-II|psb|psbP						
+PS-II|II|psbT	PS-II|psb|psbT						
+PS-II|II|psbU	PS-II|psb|psbU						
+PS-II|II|psbX	PS-II|psb|psbX						
+PS-II|II|psbY	PS-II|psb|psbY						
+PS-II|II|psbZ	PS-II|psb|psbZ						
+PS-I|PS-Ipsa|psaA	PS-I|psa|psaA						
+PS-I|PS-Ipsa|psaB	PS-I|psa|psaB						
+PS-I|PS-Ipsa|psaC	PS-I|psa|psaC						
+PS-I|PS-Ipsa|psaD	PS-I|psa|psaD						
+PS-I|PS-Ipsa|psaE	PS-I|psa|psaE						
+PS-I|PS-Ipsa|psaF	PS-I|psa|psaF						
+PS-I|PS-Ipsa|psaI	PS-I|psa|psaI						
+PS-I|PS-Ipsa|psaJ	PS-I|psa|psaJ						
+PS-I|PS-Ipsa|psaK	PS-I|psa|psaK						
+PS-I|PS-Ipsa|psaL	PS-I|psa|psaL						
+PS-I|PS-Ipsa|psaM	PS-I|psa|psaM						
+PS-I|PS-Ipsa|psaX	PS-I|psa|psaX						
+Stress|redox|gorA	oxStressR|redox|gorA						
+Stress|redox|gpxA	oxStressR|redox|gpxA						
+Stress|redox|gshA	oxStressR|redox|gshA						
+Stress|redox|gshB	oxStressR|redox|gshB						
+Stress|redox|gsiABCD	oxStressR|redox|gsiABCD						
+Stress|redox|gstA	oxStressR|redox|gstA						
+Stress|redox|katE	oxStressR|redox|katE						
+Stress|redox|katG	oxStressR|redox|katG						
+Stress|redox|sodA	oxStressR|redox|sodA						
+Stress|redox|sodB	oxStressR|redox|sodB						
+Sugar|Chitobiose|ehiEFG	Sugar|Chitobiose|ehiEFG						
+Sugar|Glucoside|aglEFGK	Sugar|Glucoside|aglEFGK						
+Sugar|Lipopolysaccharide|rfbAB	Sugar|Lipopolysaccharide|rfbAB						
+Sugar|Malstose|lamB	Sugar|Malstose|lamB						
+Sugar|Malstose|malKFGE	Sugar|Malstose|malKFGE						
+Sugar|NAG|acsA	Sugar|NAG|acsA						
+Sugar|NAG|nagA	Sugar|NAG|nagA						
+Sugar|NAG|nagB	Sugar|NAG|nagB						
+Sugar|NAG|ngcEFG	Sugar|NAG|ngcEFG						
+Sugar|NAG|ybfM	Sugar|NAG|ybfM						
+Sulfur|S1|cysATWP	Sulfur|S1|cysATWP						
+Sulfur|S2|satA	Sulfur|S2|satA						
+Sulfur|S3|cysC	Sulfur|S3|cysC						
+Sulfur|S4|cysH	Sulfur|S4|cysH						
+Sulfur|S5|sirA	Sulfur|S5|sirA						
+Sulfur|S|cysATWP	Sulfur|S|cysATWP						
+Sulfur|S|cysC	Sulfur|S|cysC						
+Sulfur|S|cysDN	Sulfur|S|cysDN						
+Sulfur|S|cysE	Sulfur|S|cysE						
+Sulfur|S|cysGIJ	Sulfur|S|cysGIJ						
+Sulfur|S|cysKM	Sulfur|S|cysKM						
+Sulfur|S|cysZ	Sulfur|S|cysZ						
+Sulfur|S|scgABC	Sulfur|S|scgABC						
+Sulfur|S|sllABC	Sulfur|S|sllABC						
+Sulfur|S|srpKLM	Sulfur|S|srpKLM						
+Sulfur|S|ssuABCDE	Sulfur|S|ssuABCDE						
+Sulfur|S|sulP	Sulfur|S|sulP						
+Sulfur|S|tauABCD	Sulfur|S|tauABCD						
+Toxins|Anatoxin-a|anaABCDEFGH	Toxins|Anatoxin-a|anaABCDEFGH						
+Toxins|Cylindrospermopsin|cyrABCDEFGHIJKLMN	Toxins|Cylindrospermopsin|cyrABCDEFGHIJKLMN						
+Toxins|Lyngbyatoxin|ltxABCD	Toxins|Lyngbyatoxin|ltxABCD						
+Toxins|Microcystin|mcyABCDEFGHIJ	Toxins|Microcystin|mcyABCDEFGHIJ						
+Toxins|Nodularin|ndaABCDEFGHI	Toxins|Nodularin|ndaABCDEFGHI						
+Toxins|Saxitoxin|sxtABCDEFGHIJKLMNOPQRSTUVWXYZ	Toxins|Saxitoxin|sxtABCDEFGHIJKLMNOPQRSTUVWXYZ						
+UnsatFA|MUFA|desABCDEF	UnsatFA|MUFA|desABCDEF						
+UnsatFA|PUFA|pfaABCDE	UnsatFA|PUFA|pfaABCDE						
+UnsatFA|PUFA|pfaR	UnsatFA|PUFA|pfaR						
+Vesicle|Gas|gvpA	Vesicle|Gas|gvpA						
+Vesicle|Gas|gvpC	Vesicle|Gas|gvpC						
+Vesicle|Gas|gvpF	Vesicle|Gas|gvpF						
+Vesicle|Gas|gvpJ	Vesicle|Gas|gvpJ						
+Vesicle|Gas|gvpK	Vesicle|Gas|gvpK						
+Vesicle|Gas|gvpN	Vesicle|Gas|gvpN						
+Vesicle|Gas|gvpV	Vesicle|Gas|gvpV						
+Vesicle|Gas|gvpW	Vesicle|Gas|gvpW						
+Vesicle|Gene|gvpA	Vesicle|Gene|gvpA						
+Vesicle|Gene|gvpC	Vesicle|Gene|gvpC						
+Vesicle|Gene|gvpD	Vesicle|Gene|gvpD						
+Vesicle|Gene|gvpE	Vesicle|Gene|gvpE						
+Vesicle|Gene|gvpF	Vesicle|Gene|gvpF						
+Vesicle|Gene|gvpG	Vesicle|Gene|gvpG						
+Vesicle|Gene|gvpH	Vesicle|Gene|gvpH						
+Vesicle|Gene|gvpI	Vesicle|Gene|gvpI						
+Vesicle|Gene|gvpJ	Vesicle|Gene|gvpJ						
+Vesicle|Gene|gvpK	Vesicle|Gene|gvpK						
+Vesicle|Gene|gvpL	Vesicle|Gene|gvpL						
+Vesicle|Gene|gvpM	Vesicle|Gene|gvpM						
+Vesicle|Gene|gvpN	Vesicle|Gene|gvpN						
+Vesicle|Gene|gvpO	Vesicle|Gene|gvpO						
+Vesicle|Gene|gvpV	Vesicle|Gene|gvpV						
+Vesicle|Gene|gvpW	Vesicle|Gene|gvpW						
+Vesicle|Gene|gvpX	Vesicle|Gene|gvpX						
+Vesicle|gvesicle|gvpA	Vesicle|gvesicle|gvpA						
+Vesicle|gvesicle|gvpB	Vesicle|gvesicle|gvpB						
+Vesicle|gvesicle|gvpC	Vesicle|gvesicle|gvpC						
+Vesicle|gvesicle|gvpD	Vesicle|gvesicle|gvpD						
+Vesicle|gvesicle|gvpE	Vesicle|gvesicle|gvpE						
+Vesicle|gvesicle|gvpF	Vesicle|gvesicle|gvpF						
+Vesicle|gvesicle|gvpG	Vesicle|gvesicle|gvpG						
+Vesicle|gvesicle|gvpJ	Vesicle|gvesicle|gvpJ						
+Vesicle|gvesicle|gvpK	Vesicle|gvesicle|gvpK						
+Vesicle|gvesicle|gvpN	Vesicle|gvesicle|gvpN						
+Vesicle|gvesicle|gvpV	Vesicle|gvesicle|gvpV						
+Vesicle|gvesicle|gvpW	Vesicle|gvesicle|gvpW						

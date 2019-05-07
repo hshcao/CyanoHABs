@@ -1,0 +1,64 @@
+AAPEP|AA	AAPEP|AA						AAPEP	AAPEP	Amino acid and peptide transporters
+Akinete|Ana	Akinete|Ana						Akinete	Akinete	Akinete formation
+CO2CCM|Carbonicanhydrase	CCM|Carbonicanhydrase						CO2CCM	CCM	CO2 concentrating mechanism
+CO2CCM|Carboxysome	CCM|Carboxysome						DrugR	DrugR	Antibiotic resistance
+CO2CCM|CiT	CCM|CiT						Heavymetal	metalR	Heavy metal resistance
+CO2CCM|Rubisco	CCM|Rubisco						IonDrug	TEVit	Trace element and vitamin uptake
+DrugR|DR	DrugR|DR						MAA	MAA	Mycosporine-like amino acid biosynthesis
+Heavymetal|HM	metalR|HMR						Nfix	Nfix	Nitrogen fixation
+IonDrug|Biotin	TEVit|Biotin						Nitrogen	Nitrogen	Nitrogen utilization
+IonDrug|Cobalamin	TEVit|Cobalamin						Osmoprotect	Osmos	Osmotic homeostasis
+IonDrug|Copper	TEVit|Copper						Phosphorus	Phosphorus	Phosphorus utilization
+IonDrug|Folate	TEVit|Folate						Photosynthesis	PSB	Phycobilisome
+IonDrug|Iron	TEVit|Iron						PS-I	PS-I	Photosystem I
+IonDrug|Magnesium	TEVit|Magnesium						PS-II	PS-II	Photosystem II
+IonDrug|Manganese	TEVit|Manganese						Stress	oxStress	Redox restress resistance
+IonDrug|Nickel	TEVit|Nickel						Sugar	Sugar	Uptake of simple carbohydrates
+IonDrug|Riboflavin	TEVit|Riboflavin						Sulfur	Sulfur	Sulfur utilization
+MAA|MAA	MAA|MAA						Toxins	Toxin	Cyanotoxin biosynthesis
+Nfix|N	Nfix|N						UnsatFA	UnsatFA	Biosynthesis of unsaturated fatty acids
+Nitrogen|ammonia	Nitrogen|ammonia						Vesicle	Vesicle	Gas vesicle biosynthesis
+Nitrogen|nitrate	Nitrogen|nitrate								
+Nitrogen|urea	Nitrogen|urea								
+Osmoprotect|ABC	Osmos|ABC								
+Osmoprotect|opuABC	Osmos|opuABC								
+Phosphorus|orgP	Phosphorus|orgP								
+Phosphorus|Pi	Phosphorus|Pi								
+Photosynthesis|PSB	PSB|PSB								
+PS-I|ATPase	PS-I|ATPase								
+PS-I|Cytb6/f	PS-I|Cytb6/f								
+PS-I|Etransport	PS-I|Etransport								
+PS-II|13dDa	PS-II|13dDa								
+PS-II|CP43	PS-II|CP43								
+PS-II|CP47	PS-II|CP47								
+PS-II|Cyt-b559	PS-II|Cyt-b559								
+PS-II|Cyt-c550	PS-II|Cyt-c550								
+PS-II|D1	PS-II|D1								
+PS-II|D2	PS-II|D2								
+PS-II|II	PS-II|II	this line should be deleted							
+PS-II|Psb27	PS-II|Psb27								
+PS-II|psb28-2II	PS-II|psb28-2								
+PS-I|PS-Ipsa	PS-I|PS-Ipsa								
+Stress|redox	oxStressR|redox								
+Sugar|Chitobiose	Sugar|Chitobiose								
+Sugar|Glucoside	Sugar|Glucoside								
+Sugar|Lipopolysaccharide	Sugar|Lipopolysaccharide								
+Sugar|Malstose	Sugar|Malstose								
+Sugar|NAG	Sugar|NAG								
+Sulfur|S	Sulfur|S								
+Sulfur|S1	Sulfur|S								
+Sulfur|S2	Sulfur|S								
+Sulfur|S3	Sulfur|S								
+Sulfur|S4	Sulfur|S								
+Sulfur|S5	Sulfur|S								
+Toxins|Anatoxin-a	Toxin|Anatoxin-a								
+Toxins|Cylindrospermopsin	Toxin|Cylindrospermopsin								
+Toxins|Lyngbyatoxin	Toxin|Lyngbyatoxin								
+Toxins|Microcystin	Toxin|Microcystin								
+Toxins|Nodularin	Toxin|Nodularin								
+Toxins|Saxitoxin	Toxin|Saxitoxin								
+UnsatFA|MUFA	UnsatFA|MUFA								
+UnsatFA|PUFA	UnsatFA|PUFA								
+Vesicle|Gas	Vesicle|gvesicle								
+Vesicle|Gene	Vesicle|gvesicle								
+Vesicle|gvesicle	Vesicle|gvesicle								

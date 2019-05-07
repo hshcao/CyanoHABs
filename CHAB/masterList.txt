@@ -1,0 +1,181 @@
+#Organism/Name    Size (Mb)   GC% blooming    Proteins    TaxID   GCA Source
+Acaryochloris marina MBIC11017	8.3616	46.9889%	Unknown	7163	329726	GCA_000018105.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/018/105/GCA_000018105.1_ASM1810v1
+Aliterella atlantica CENA595	5.2657	42.6%	Unknown	4756	1618023	GCA_000952155.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/952/155/GCA_000952155.1_asmbly001
+Alkalinema sp. CACIAM 70d	6.46103	49.7%	Unknown	5216	1934309	GCA_002148405.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/148/405/GCA_002148405.1_ASM214840v1
+Anabaena sp. 90	5.30567	38.0907%	bloomer	4531	46234	GCA_000312705.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/312/705/GCA_000312705.1_ASM31270v1
+Anabaena sp. CRKS33	4.95001	37.6%	Unknown	4638	1710888	GCA_001672075.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/672/075/GCA_001672075.1_ASM167207v1
+Anabaena sp. WA102	5.78203	38.3841%	Unknown	4927	1647413	GCA_001277295.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/277/295/GCA_001277295.1_ASM127729v1
+Anabaena variabilis ATCC 29413	7.10575	41.3911%	bloomer	5706	240292	GCA_000204075.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/204/075/GCA_000204075.1_ASM20407v1
+Aphanizomenon flos-aquae LD13	4.43945	37.1%	Unknown	3787	1710894	GCA_001672165.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/672/165/GCA_001672165.1_ASM167216v1
+Aphanizomenon flos-aquae MDT14a	4.63259	37.1%	Unknown	3936	1710895	GCA_001672095.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/672/095/GCA_001672095.1_ASM167209v1
+Aphanizomenon flos-aquae 2012/KM1/D3	5.74177	38.2%	Unknown	4558	1532906	GCA_000789435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/789/435/GCA_000789435.1_ASM78943v1
+Aphanizomenon flos-aquae WA102	5.94604	39.1%	Unknown	5296	1710896	GCA_001672105.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/672/105/GCA_001672105.1_ASM167210v1
+Aphanocapsa montana BDHKU210001	11.5	52.5%	Unknown	7295	1574475	GCA_000817745.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/745/GCA_000817745.1_ASM81774v1
+Arthrospira platensis C1	6.08921	44.7506%	bloomer	11091	459495	GCA_000307915.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/307/915/GCA_000307915.1_ASM30791v1
+Arthrospira maxima CS-328	6.00331	44.8%	Unknown	5018	513049	GCA_000173555.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/173/555/GCA_000173555.1_ASM17355v1
+Arthrospira platensis YZ	6.52077	44.2%	Unknown	5551	1738638	GCA_001611905.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/611/905/GCA_001611905.1_ASM161190v1
+Arthrospira platensis NIES-39	6.78843	44.3%	Unknown	5872	696747	GCA_000210375.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/210/375/GCA_000210375.1_ASM21037v1
+Arthrospira sp. PCC 8005	6.22815	44.7%	Unknown	5293	376219	GCA_000973065.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/973/065/GCA_000973065.1_ASM97306v1
+Calothrix sp. 336/3	6.42013	41.056%	Unknown	5232	1337936	GCA_000734895.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/734/895/GCA_000734895.2_ASM73489v2
+Calothrix sp. HK-06	9.99045	38.8%	Unknown	8078	1137096	GCA_001904745.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/745/GCA_001904745.1_ASM190474v1
+Calothrix sp. PCC 6303	6.96039	39.8015%	nonbloomer	5465	1170562	GCA_000317435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/435/GCA_000317435.1_ASM31743v1
+Candidatus Synechococcus spongiarum	1.40948	61.9%	Unknown	1338	431041	GCA_900047545.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/047/545/GCA_900047545.1_m9
+Candidatus Atelocyanobacterium thalassa isolate SIO64986	1.4855	30.9%	Unknown	1246	1527444	GCA_000737945.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/737/945/GCA_000737945.1_ASM73794v1
+Candidatus Atelocyanobacterium thalassa isolate ALOHA	1.44381	31.1%	Unknown	1148	1453429	GCA_000025125.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/025/125/GCA_000025125.1_ASM2512v1
+Candidatus Synechococcus spongiarum LMB bulk15N	1.47274	60.2%	Unknown	1343	1943583	GCA_002018015.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/018/015/GCA_002018015.1_ASM201801v1
+Chamaesiphon minutus PCC 6605	6.76176	45.6454%	nonbloomer	6013	1173020	GCA_000317145.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/145/GCA_000317145.1_ASM31714v1
+Chroococcidiopsis thermalis PCC 7203	6.6894	44.4387%	Unknown	5716	251229	GCA_000317125.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/125/GCA_000317125.1_ASM31712v1
+Chroogloeocystis siderophila 5.2 s.c.1	5.00999	42.9%	Unknown	4219	247279	GCA_001904655.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/655/GCA_001904655.1_ASM190465v1
+Chrysosporum ovalisporum	7.46798	50.4%	Unknown	2851	75695	GCA_001458455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/458/455/GCA_001458455.1_Assembly_of_Aphanizomenon_ovalisporum
+Coleofasciculus chthonoplastes PCC 7420	8.67904	45.4%	Unknown	6635	118168	GCA_000155555.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/155/555/GCA_000155555.1_ASM15555v1
+Crinalium epipsammum PCC 9333	5.62041	40.1979%	Unknown	4728	1173022	GCA_000317495.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/495/GCA_000317495.1_ASM31749v1
+Crocosphaera watsonii WH 8501	6.23816	37.1%	nonbloomer	5079	165597	GCA_000167195.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/167/195/GCA_000167195.1_ASM16719v1
+Cyanobacteria bacterium TMED229	1.3528	57.5%	Unknown	1375	1986679	GCA_002169615.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/169/615/GCA_002169615.1_ASM216961v1
+Cyanobacteria bacterium TMED177	1.35006	60.3%	Unknown	1406	1986677	GCA_002170825.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/170/825/GCA_002170825.1_ASM217082v1
+Cyanobacteria bacterium TMED188	1.35276	59.2%	Unknown	1474	1986678	GCA_002172015.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/172/015/GCA_002172015.1_ASM217201v1
+Cyanobacteria bacterium 13_1_20CM_4_61_6	4.13924	60.8%	Unknown	1953	1805100	GCA_001919945.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/919/945/GCA_001919945.1_ASM191994v1
+Cyanobacteria bacterium 13_1_40CM_2_61_4	8.50931	60.7%	Unknown	4209	1805101	GCA_001919235.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/919/235/GCA_001919235.1_ASM191923v1
+cyanobacterium TDX16	15.3332	55.2%	Unknown	15006	1503470	GCA_002213405.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/213/405/GCA_002213405.1_ASM221340v1
+cyanobacterium BACL30 MAG-120619-bin27	1.81381	63.6%	Unknown	1670	1655601	GCA_001438415.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/438/415/GCA_001438415.1_ASM143841v1
+cyanobacterium endosymbiont of Epithemia turgida isolate EtSB Lake Yunoko	2.79432	33.4%	Unknown	1603	1228987	GCA_000829235.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/829/235/GCA_000829235.1_ASM82923v1
+Cyanobacterium stanieri PCC 7202	3.16338	38.7%	Unknown	2837	292563	GCA_000317655.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/655/GCA_000317655.1_ASM31765v1
+Cyanobium sp. NIES-981	3.02155	68.6%	Unknown	2840	1851505	GCA_900088535.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/088/535/GCA_900088535.1_ASM90008853v1
+Cyanobium gracile PCC 6307	3.34236	68.7%	Unknown	3191	292564	GCA_000316515.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/316/515/GCA_000316515.1_ASM31651v1
+Cyanothece sp. ATCC 51142	5.46038	37.967%	bloomer	4942	43989	GCA_000017845.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/017/845/GCA_000017845.1_ASM1784v1
+Cyanothece sp. PCC 7424	6.55417	38.5033%	Unknown	5603	65393	GCA_000021825.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/021/825/GCA_000021825.1_ASM2182v1
+Cylindrospermopsis raciborskii CENA302	3.47642	40.1%	Unknown	3008	1170768	GCA_002027345.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/027/345/GCA_002027345.1_ASM202734v1
+Cylindrospermopsis raciborskii CS-508	3.5566	40.2%	Unknown	3010	533243	GCA_001858115.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/858/115/GCA_001858115.1_ASM185811v1
+Cylindrospermopsis raciborskii MVCC14	3.59452	40.1%	Unknown	3062	940191	GCA_001858125.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/858/125/GCA_001858125.1_ASM185812v1
+Cylindrospermopsis sp. CR12	3.72396	40.1%	Unknown	3102	1747196	GCA_001432185.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/432/185/GCA_001432185.1_ASM143218v1
+Cylindrospermopsis raciborskii CS-505	3.87903	40.2%	bloomer	3222	533240	GCA_000175835.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/175/835/GCA_000175835.1_ASM17583v1
+Cylindrospermopsis raciborskii CS-505	4.15926	40.3%	bloomer	3497	533240	GCA_001676585.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/676/585/GCA_001676585.1_ASM167658v1
+Cylindrospermum stagnale PCC 7417	7.61059	42.1988%	Unknown	6158	56107	GCA_000317535.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/535/GCA_000317535.1_ASM31753v1
+Dactylococcopsis salina PCC 8305	3.78101	42.4%	nonbloomer	3429	13035	GCA_000317615.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/615/GCA_000317615.1_ASM31761v1
+Desertifilum sp. IPPAS B-1220	6.09073	48.7%	Unknown	4976	1781255	GCA_001746915.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/746/915/GCA_001746915.1_ASM174691v1
+Fischerella sp. JSC-11	5.38	41%	Unknown	4339	741277	GCA_000231365.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/231/365/GCA_000231365.2_ASM23136v1
+Fischerella major NIES-592	5.6395	41%	Unknown	4506	210994	GCA_001904645.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/645/GCA_001904645.1_ASM190464v1
+Fischerella sp. NIES-3754	5.82686	40.9919%	Unknown	4584	1752063	GCA_001548455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/455/GCA_001548455.1_ASM154845v1
+Geitlerinema sp. PCC 7407	4.68111	58.5%	Unknown	3789	1173025	GCA_000317045.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/045/GCA_000317045.1_ASM31704v1
+Geminocystis sp. NIES-3708	4.04208	32.3045%	Unknown	3376	1615909	GCA_001548095.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/095/GCA_001548095.1_Gm3709_assembly_1.0
+Geminocystis sp. NIES-3709	4.42606	33.3154%	Unknown	3587	1617448	GCA_001548115.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/115/GCA_001548115.1_Gm3709_assembly_1.0
+Gloeobacter kilaueensis JS1	4.72479	60.5%	Unknown	4336	1183438	GCA_000484535.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/484/535/GCA_000484535.1_ASM48453v1
+Gloeobacter violaceus PCC 7421	4.65902	62%	Unknown	4430	251221	GCA_000011385.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/011/385/GCA_000011385.1_ASM1138v1
+Gloeocapsa sp. PCC 7428	5.88271	43.3899%	Unknown	4996	1173026	GCA_000317555.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/555/GCA_000317555.1_ASM31755v1
+Gloeomargarita lithophora Alchichica-D10	3.04928	52.2%	Unknown	2929	1188229	GCA_001870225.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/870/225/GCA_001870225.1_ASM187022v1
+Halomicronema hongdechloris C2206	5.57408	54.6%	Unknown	4682	1641165	GCA_002075285.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/075/285/GCA_002075285.2_ASM207528v2
+Halothece sp. PCC 7418	4.17917	42.9%	nonbloomer	3710	65093	GCA_000317635.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/635/GCA_000317635.1_ASM31763v1
+Hapalosiphon sp. MRB220	7.42972	40.2%	Unknown	5932	1704290	GCA_001275395.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/275/395/GCA_001275395.1_ASM127539v1
+Hassallia byssoidea VB512170	13.0965	44.1%	Unknown	10181	1304833	GCA_000817785.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/785/GCA_000817785.1_V1.0
+Hydrococcus rivularis NIES-593	5.14832	45%	Unknown	4382	1921803	GCA_001904635.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/635/GCA_001904635.1_ASM190463v1
+Hydrocoleum sp. CS-953	8.3872	36.4%	Unknown	5354	1671698	GCA_002260545.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/260/545/GCA_002260545.1_ASM226054v1
+Leptolyngbya sp. O-77	5.48026	55.9%	Unknown	4291	1080068	GCA_001548395.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/395/GCA_001548395.1_ASM154839v1
+Leptolyngbya sp. 'hensonii'	5.94003	52.3%	Unknown	5048	1922337	GCA_001939115.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/939/115/GCA_001939115.1_ASM193911v1
+Leptolyngbya boryana dg5	6.80347	47.013%	Unknown	6144	1260963	GCA_002142495.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/142/495/GCA_002142495.1_ASM214249v1
+Leptolyngbya sp. NIES-3755	6.76166	46.6565%	Unknown	6350	1752064	GCA_001548435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/435/GCA_001548435.1_ASM154843v1
+Leptolyngbya valderiana BDU 20041	6.99135	59.8%	Unknown	5553	322866	GCA_001637395.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/637/395/GCA_001637395.1_ASM163739v1
+Limnoraphis robusta CS-951	7.31412	41.6%	Unknown	5716	1637645	GCA_000972705.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/972/705/GCA_000972705.2_ASM97270v2
+Limnothrix sp. P13C2	4.58381	55.3%	Unknown	3672	1880902	GCA_001698445.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/698/445/GCA_001698445.1_ASM169844v1
+Limnothrix sp. CACIAM 69d	4.69092	55.3%	Unknown	3689	1890733	GCA_001913845.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/913/845/GCA_001913845.1_ASM191384v1
+Lyngbya confervoides BDU141951	8.79969	55%	Unknown	6378	1574623	GCA_000817775.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/775/GCA_000817775.1_ASM81777v1
+Lyngbya sp. PCC 8106	7.03751	41.1%	bloomer	5572	313612	GCA_000169095.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/169/095/GCA_000169095.1_ASM16909v1
+Lyngbya aestuarii BL J	6.86763	41.2%	Unknown	5220	1348334	GCA_000478195.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/478/195/GCA_000478195.2_ASM47819v2
+Mastigocladus laminosus 74	7.326	41.9%	Unknown	4386	1913078	GCA_001990805.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/990/805/GCA_001990805.1_ASM199080v1
+Mastigocladus laminosus UU774	8.56018	45.5%	Unknown	5550	1594576	GCA_000934435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/934/435/GCA_000934435.1_ASM93443v1
+Mastigocoleus testarum BC008	12.7002	37.3%	Unknown	8892	371196	GCA_001456025.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/456/025/GCA_001456025.1_ASM145602v1
+Melainabacteria sp. 35_41	2.03266	34%	Unknown	2045	1897008	GCA_001917115.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/917/115/GCA_001917115.1_ASM191711v1
+Microcoleus vaginatus FGP-2	6.69893	46%	Unknown	5060	756067	GCA_000214075.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/214/075/GCA_000214075.2_ASM21407v1
+Microcoleus sp. PCC 7113	7.96651	46.2006%	Unknown	6350	1173027	GCA_000317515.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/515/GCA_000317515.1_ASM31751v1
+Microcystis aeruginosa NIES-2481	4.29301	42.9%	Unknown	3818	Unknown	GCA_001704955.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/704/955/GCA_001704955.1_ASM170495v1
+Microcystis aeruginosa NIES-2481	4.29301	42.9%	Unknown	3832	1698524	GCA_001704955.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/704/955/GCA_001704955.1_ASM170495v1
+Microcystis aeruginosa NIES-2549	4.29421	42.9%	Unknown	3834	Unknown	GCA_000981785.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/981/785/GCA_000981785.1_ASM98178v1
+Microcystis aeruginosa NIES-2549	4.29421	42.9%	Unknown	3843	1641812	GCA_000981785.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/981/785/GCA_000981785.1_ASM98178v1
+Microcystis aeruginosa NIES-44	4.56532	43.2%	Unknown	4053	Unknown	GCA_000787675.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/787/675/GCA_000787675.1_ASM78767v1
+Microcystis sp. T1-4	4.69375	42.8%	bloomer	4198	1160279	GCA_000297435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/297/435/GCA_000297435.1_ASM29743v1
+Microcystis aeruginosa DIANCHI905	4.85887	42.5%	bloomer	4303	Unknown	GCA_000332585.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/332/585/GCA_000332585.1_MicAerD1.0
+Microcystis aeruginosa TAIHU98	4.84961	42.5%	bloomer	4340	Unknown	GCA_000330925.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/330/925/GCA_000330925.1_MicAerT1.0
+Microcystis aeruginosa NIES-98	4.98373	42.4%	Unknown	4422	Unknown	GCA_001725075.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/725/075/GCA_001725075.1_ASM172507v1
+Microcystis aeruginosa NIES-298	4.95748	42.5%	Unknown	4537	Unknown	GCA_002897315.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/897/315/GCA_002897315.1_ASM289731v1
+Microcystis aeruginosa NIES-88	5.26322	43%	Unknown	4620	Unknown	GCA_001578075.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/578/075/GCA_001578075.1_ASM157807v1
+Microcystis aeruginosa NIES-298	4.92381	41.8%	Unknown	4749	Unknown	GCA_002897275.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/897/275/GCA_002897275.1_ASM289727v1
+Microcystis aeruginosa SPC777	5.455	42.6%	Unknown	4935	Unknown	GCA_000412595.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/412/595/GCA_000412595.1_spc777-v1
+Microcystis aeruginosa KW	5.88943	42.8%	Unknown	4962	Unknown	GCA_002025445.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/025/445/GCA_002025445.1_KWv02
+Microcystis aeruginosa NIES-843	5.84279	42.3%	bloomer	5190	449447	GCA_000010625.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/010/625/GCA_000010625.1_ASM1062v1
+Microcystis panniformis FACHB-1757	5.68684	42.4%	Unknown	5974	1638788	GCA_001264245.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/264/245/GCA_001264245.1_ASM126424v1
+Microcystis aeruginosa PCC 9432	Unknown	Unknown%	bloomer	Unknown	1160280	GCA_000307995.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/307/995/GCA_000307995.2_ASM30799v2
+Microcystis aeruginosa NIES-843	Unknown	Unknown%	bloomer	Unknown	449447	GCA_000010625.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/010/625/GCA_000010625.1_ASM1062v1
+Moorea bouillonii PNG	8.3191	43.7%	Unknown	6042	568701	GCA_001942495.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/942/495/GCA_001942495.1_ASM194249v1
+Moorea producens PAL	8.37139	43.7%	Unknown	6242	1905009	GCA_001942475.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/942/475/GCA_001942475.1_ASM194247v1
+Moorea producens 3L	8.47861	43.7%	Unknown	6246	489825	GCA_000211815.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/211/815/GCA_000211815.1_ASM21181v1
+Moorea producens JHB	9.38476	43.6993%	Unknown	6690	1454205	GCA_001854205.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/854/205/GCA_001854205.1_ASM185420v1
+Moorea producens PAL-8-15-08-1	9.70866	43.4974%	Unknown	6792	1458985	GCA_001767235.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/767/235/GCA_001767235.1_ASM176723v1
+Neosynechococcus sphagnicola sy1	4.33137	51.6%	Unknown	3263	1497020	GCA_000775285.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/775/285/GCA_000775285.1_ASM77528v1
+Nodularia spumigena CENA596	5.18968	41.2%	Unknown	4254	1819295	GCA_001623485.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/623/485/GCA_001623485.1_ASM162348v1
+Nodularia spumigena CCY9414	5.31626	41.3%	bloomer	4420	313624	GCA_000169135.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/169/135/GCA_000169135.1_ASM16913v1
+Nodularia spumigena CCY9414	5.46227	41.2%	bloomer	4566	313624	GCA_000340565.3	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/340/565/GCA_000340565.3_ASM34056v3
+Nodularia sp. NIES-3585	5.77354	41.3%	Unknown	4777	1973477	GCA_002218065.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/218/065/GCA_002218065.1_ASM221806v1
+Nostoc piscinale CENA21	7.09456	40.5%	Unknown	5232	224013	GCA_001298445.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/298/445/GCA_001298445.1_ASM129844v1
+Nostoc sp. NIES-3756	6.98757	40.5485%	Unknown	5710	1751286	GCA_001548375.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/548/375/GCA_001548375.1_ASM154837v1
+Nostoc sp. 106C	8.66273	41.3%	Unknown	6698	1932667	GCA_002154725.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/154/725/GCA_002154725.1_ASM215472v1
+Nostoc calcicola FACHB-389	9.04921	41.5%	Unknown	6956	1357508	GCA_001904715.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/715/GCA_001904715.1_ASM190471v1
+Nostoc sp. KVJ20	9.18489	41.7%	Unknown	7250	457944	GCA_001712795.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/712/795/GCA_001712795.1_ASM171279v1
+Nostoc sp. PCC 7120	7.21179	41.2243%	bloomer	5842	103690	GCA_000009705.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/009/705/GCA_000009705.1_ASM970v1
+Nostoc punctiforme PCC 73102	9.05919	41.3416%	Unknown	6984	63737	GCA_000020025.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/020/025/GCA_000020025.1_ASM2002v1
+'Nostoc azollae' 0708	5.48614	38.3265%	Unknown	3669	551115	GCA_000196515.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/196/515/GCA_000196515.1_ASM19651v1
+Nostocales cyanobacterium HT-58-2	7.89957	42.6036%	Unknown	6171	1940762	GCA_002163975.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/163/975/GCA_002163975.1_ASM216397v1
+Oscillatoria nigro-viridis PCC 7112	8.27225	45.8127%	bloomer	6408	179408	GCA_000317475.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/475/GCA_000317475.1_ASM31747v1
+Oscillatoria acuminata PCC 6304	7.80427	47.611%	Unknown	5879	56110	GCA_000317105.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/105/GCA_000317105.1_ASM31710v1
+[Oscillatoria] sp. PCC 6506	6.67671	43.4%	Unknown	5304	272129	GCA_000180455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/180/455/GCA_000180455.1_ASM18045v1
+Oscillatoriales cyanobacterium CG2_30_44_21	3.49529	44.3%	Unknown	3046	1805292	GCA_001873375.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/873/375/GCA_001873375.1_ASM187337v1
+Oscillatoriales cyanobacterium CG2_30_40_61	4.81883	39.8%	Unknown	4018	1805291	GCA_001873365.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/873/365/GCA_001873365.1_ASM187336v1
+Oscillatoriales cyanobacterium USR001	5.87279	40.9%	Unknown	4908	1880991	GCA_001698425.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/698/425/GCA_001698425.1_ASM169842v1
+Oscillatoriales cyanobacterium JSC-12	5.53049	47.5%	Unknown	9518	864702	GCA_000309945.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/309/945/GCA_000309945.1_ASM30994v1
+Phormidesmis priestleyi Ana	5.92836	49.3%	Unknown	4863	1666911	GCA_001314865.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/314/865/GCA_001314865.1_ASM131486v1
+Phormidium sp. OSCR	4.69486	51.1%	Unknown	4158	1666905	GCA_001314905.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/314/905/GCA_001314905.1_ASM131490v1
+Phormidium tenue NIES-30	5.82189	56%	Unknown	4997	549789	GCA_001904775.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/775/GCA_001904775.1_ASM190477v1
+Phormidium willei BDU 130791	4.60057	53.4%	Unknown	3861	399101	GCA_001637315.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/637/315/GCA_001637315.1_ASM163731v1
+Planktothricoides sp. SR001	7.0667	43.5%	Unknown	5461	1705388	GCA_001276715.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/276/715/GCA_001276715.1_ASM127671v1
+Planktothrix rubescens	11.3941	44.8%	Unknown	4745	59512	GCA_900009275.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/009/275/GCA_900009275.1_AAI_PRJEB10990
+Planktothrix paucivesiculata PCC 9631	68.0035	49.1%	Unknown	4871	671071	GCA_900009265.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/009/265/GCA_900009265.1_BBR_PRJEB10994
+Pleurocapsa sp. PCC 7327	4.98682	45.2%	Unknown	4271	118163	GCA_000317025.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/025/GCA_000317025.1_ASM31702v1
+Prochlorococcus marinus subsp. pastoris str. CCMP1986	1.65799	30.8%	Unknown	1790	59919	GCA_000011465.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/011/465/GCA_000011465.1_ASM1146v1
+Prochlorococcus marinus subsp. marinus str. CCMP1375	1.75108	36.4%	Unknown	1882	167539	GCA_000007925.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/007/925/GCA_000007925.1_ASM792v1
+Prochlorococcus sp. RS04	1.65632	31.4%	Unknown	1792	1924287	GCA_001989455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/989/455/GCA_001989455.1_ASM198945v1
+Prochlorococcus sp. RS01	1.6577	31.4%	Unknown	1793	1924286	GCA_001989435.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/989/435/GCA_001989435.1_ASM198943v1
+Prochlorococcus sp. RS50	1.65613	31.4%	Unknown	1794	1924285	GCA_001989415.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/989/415/GCA_001989415.1_ASM198941v1
+Prochlorococcus marinus str. MIT 9312	1.7092	31.2%	Unknown	1826	74546	GCA_000012645.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/012/645/GCA_000012645.1_ASM1264v1
+Prochlorococcus marinus str. MIT 9313	2.41087	50.7%	nonbloomer	2369	74547	GCA_000011485.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/011/485/GCA_000011485.1_ASM1148v1
+Prochlorococcus sp. MIT 0604	1.78006	31.2%	nonbloomer	1903	1501268	GCA_000757845.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/757/845/GCA_000757845.1_ASM75784v1
+Prochlorococcus marinus str. NATL2A	1.8429	35.1%	Unknown	1953	59920	GCA_000012465.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/012/465/GCA_000012465.1_ASM1246v1
+Pseudanabaena sp. SR411	5.78003	42.2%	Unknown	4905	1980935	GCA_002251945.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/251/945/GCA_002251945.1_ASM225194v1
+Pseudanabaena biceps PCC 7429	5.47642	43.2%	Unknown	4435	927668	GCA_000332215.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/332/215/GCA_000332215.1_ASM33221v1
+Raphidiopsis brookii D9	3.18651	40.1%	bloomer	2602	533247	GCA_000175855.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/175/855/GCA_000175855.1_ASM17585v1
+Richelia intracellularis HM01	2.21291	33.8%	Unknown	1108	1165095	GCA_000350125.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/350/125/GCA_000350125.1_ASM35012v1
+Richelia intracellularis	5.48838	39.2%	Unknown	7768	1164990	GCA_000613065.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/613/065/GCA_000613065.1_RintRC_1
+Richelia intracellularis HH01	3.24376	33.7%	Unknown	1879	1165094	GCA_000350105.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/350/105/GCA_000350105.1_ASM35010v1
+Rivularia sp. PCC 7116	8.72877	37.4958%	nonbloomer	6526	373994	GCA_000316665.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/316/665/GCA_000316665.1_ASM31666v1
+Roseofilum reptotaenium AO1-A	5.82618	44.8%	Unknown	4978	1925591	GCA_001890975.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/890/975/GCA_001890975.1_ASM189097v1
+Rubidibacter lacunae KORDI 51-2	4.15366	56.2%	nonbloomer	3281	582515	GCA_000473895.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/473/895/GCA_000473895.1_KS51_v1
+Scytonema millei VB511283	7.25412	43.5%	Unknown	4950	1245923	GCA_000817735.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/817/735/GCA_000817735.2_ASM81773v2
+Scytonema tolypothrichoides VB-61278	7.89327	43.2%	Unknown	6058	1233231	GCA_000828085.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/828/085/GCA_000828085.2_ASM82808v2
+Scytonema sp. HK-05	9.56423	43.7%	Unknown	7320	1137095	GCA_001904675.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/904/675/GCA_001904675.1_ASM190467v1
+Scytonema hofmannii PCC 7110	12.2944	41.5%	Unknown	9970	128403	GCA_000346485.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/346/485/GCA_000346485.2_ASM34648v2
+Stanieria cyanosphaera PCC 7437	5.54499	36.2677%	bloomer	4758	111780	GCA_000317575.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/317/575/GCA_000317575.1_ASM31757v1
+Synechococcus sp. CC9902	2.23483	54.2%	bloomer	2337	316279	GCA_000012505.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/012/505/GCA_000012505.1_ASM1250v1
+Synechococcus sp. JA-3-3Ab	2.93277	60.2%	Unknown	2611	321327	GCA_000013205.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/013/205/GCA_000013205.1_ASM1320v1
+Synechococcus sp. CC9311	2.60675	52.4%	Unknown	2663	64471	GCA_000014585.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/014/585/GCA_000014585.1_ASM1458v1
+Synechococcus sp. CC9605	2.51066	59.2%	Unknown	2665	110662	GCA_000012625.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/012/625/GCA_000012625.1_ASM1262v1
+Synechococcus sp. JA-2-3B'a(2-13)	3.04668	58.5%	Unknown	2692	321332	GCA_000013225.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/013/225/GCA_000013225.1_ASM1322v1
+Synechococcus elongatus PCC 7942	2.74227	55.456%	bloomer	2685	1140	GCA_000012525.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/012/525/GCA_000012525.1_ASM1252v1
+Synechococcus elongatus PCC 6301	2.69625	55.5%	Unknown	2602	269084	GCA_000010065.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/010/065/GCA_000010065.1_ASM1006v1
+Synechocystis sp. PCC 6803 substr. GT-I	3.57	47.7%	Unknown	3200	1080228	GCA_000284135.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/284/135/GCA_000284135.1_ASM28413v1
+Synechocystis sp. PCC 6803 substr. PCC-N	3.5701	47.7%	Unknown	3202	1080229	GCA_000284215.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/284/215/GCA_000284215.1_ASM28421v1
+Synechocystis sp. PCC 6803 substr. PCC-P	3.57011	47.7%	Unknown	3204	1080230	GCA_000284455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/284/455/GCA_000284455.1_ASM28445v1
+Synechocystis sp. PCC 6803	3.94702	47.3493%	nonbloomer	3584	1148	GCA_000009725.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/009/725/GCA_000009725.1_ASM972v1
+Thermosynechococcus sp. NK55a	2.52006	53.8%	Unknown	2287	1394889	GCA_000505665.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/505/665/GCA_000505665.1_ASM50566v1
+Thermosynechococcus elongatus BP-1	2.59386	53.9%	Unknown	2476	197221	GCA_000011345.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/011/345/GCA_000011345.1_ASM1134v1
+Tolypothrix sp. NIES-4075	8.25444	41.8%	Unknown	6758	2005459	GCA_002218085.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/218/085/GCA_002218085.1_ASM221808v1
+Tolypothrix campylonemoides VB511288	9.46844	45.1%	Unknown	7510	1245935	GCA_000828075.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/828/075/GCA_000828075.2_ASM82807v2
+Tolypothrix bouteillei VB521301	11.5723	42.4%	Unknown	8215	1479485	GCA_000760695.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/760/695/GCA_000760695.2_ASM76069v2
+Tolypothrix sp. PCC 7601	9.97514	40.7%	Unknown	7629	1188	GCA_000300115.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/300/115/GCA_000300115.1_Fremyella_diplosiphon-2.0.1
+Trichodesmium erythraeum IMS101	7.75011	34.1%	bloomer	4549	203124	GCA_000014265.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/014/265/GCA_000014265.1_ASM1426v1
+Xenococcus sp. PCC 7305	5.92964	39.7%	nonbloomer	5059	102125	GCA_000332055.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/332/055/GCA_000332055.1_ASM33205v1

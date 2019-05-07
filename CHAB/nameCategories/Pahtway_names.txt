@@ -1,0 +1,20 @@
+AAPEP	AAPEP	Amino acid and peptide transporters
+Akinete	Akinete	Akinete formation
+CO2CCM	CCM	CO2 concentrating mechanism
+DrugR	DrugR	Antibiotic resistance
+Heavymetal	metalR	Heavy metal resistance
+IonDrug	TEVit	Trace element and vitamin uptake
+MAA	MAA	Mycosporine-like amino acid biosynthesis
+Nfix	Nfix	Nitrogen fixation
+Nitrogen	Nitrogen	Nitrogen utilization
+Osmoprotect	Osmos	Osmotic homeostasis
+Phosphorus	Phosphorus	Phosphorus utilization
+Photosynthesis	PSB	Phycobilisome
+PS-I	PS-I	Photosystem I
+PS-II	PS-II	Photosystem II
+Stress	oxStressR	Redox restress resistance
+Sugar	Sugar	Uptake of simple carbohydrates
+Sulfur	Sulfur	Sulfur utilization
+Toxins	Toxin	Cyanotoxin biosynthesis
+UnsatFA	UnsatFA	Biosynthesis of unsaturated fatty acids
+Vesicle	Vesicle	Gas vesicle biosynthesis
